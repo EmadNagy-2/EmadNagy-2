@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Emad Nagy]
+# 👋 Hi, I'm Emad Nagy
 ### 📊 Data Analyst
 
 I am a passionate **Data Analyst** dedicated to turning complex data into clear, actionable business insights. I specialize in data cleaning, exploratory data analysis (EDA), statistical modeling, and creating interactive, user-friendly dashboards to support data-driven decision-making.
