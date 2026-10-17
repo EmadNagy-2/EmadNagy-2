@@ -22,10 +22,6 @@ I am a passionate **Data Analyst** dedicated to turning complex data into clear,
 <img width="1911" height="817" alt="3" src="https://github.com/user-attachments/assets/ae3cf667-95dc-4aa4-b33f-b4fc2486f1ad" />
 <img width="1367" height="666" alt="2" src="https://github.com/user-attachments/assets/d87aa816-7611-4d01-939a-0c4453ca8616" />
 <img width="1198" height="682" alt="1" src="https://github.com/user-attachments/assets/7bfd4d05-cef8-4f70-b1ef-b7fd799c7a68" />
-### 1. 🛒 US Store - Sales Performance Dashboard
-* **Description:** An interactive e-commerce sales performance dashboard...
-* **Tech Stack:** Power BI, DAX, Data Modeling
-* 🔗 **[View Repository & Project Files](https://github.com/EmadNagy-2/US-Store-Sales-Dashboard)**
   
 ### 2. 🌍 Country Development & Economic Performance Analysis
 * **Description:** A comprehensive multi-page dashboard analyzing global socio-economic indicators, macroeconomic metrics, health, and education across world regions[cite: 3, 4, 5].
